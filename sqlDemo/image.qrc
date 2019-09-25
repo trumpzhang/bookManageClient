@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/客户.png</file>
+        <file>image/图书.png</file>
+        <file>image/销售订单.png</file>
+        <file>image/职工.png</file>
+        <file>image/查找.png</file>
+        <file>image/取消.png</file>
+        <file>image/确定.png</file>
+        <file>image/删 除 .png</file>
+        <file>image/所有.png</file>
+        <file>image/新增.png</file>
+        <file>image/登陆.png</file>
+        <file>image/统计.png</file>
+    </qresource>
+</RCC>
